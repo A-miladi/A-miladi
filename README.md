@@ -1,5 +1,5 @@
-### Hi i'm NEO👋
-and this is my skills 
+### Hi I'm NEO👋
+My Skills 
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,vue,jquery,tailwind,css,html,github,python)](https://skillicons.dev)
