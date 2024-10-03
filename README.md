@@ -2,7 +2,7 @@
 My Skills 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,vue,jquery,tailwind,css,html,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,jquery,tailwind,css,html,github,python)](https://skillicons.dev)
 <!--
 *marziecode/marziecode* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
