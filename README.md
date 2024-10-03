@@ -3,9 +3,6 @@ My Skills
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,jquery,tailwind,css,html,github,python)](https://skillicons.dev)
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 <!--
 *marziecode/marziecode* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
