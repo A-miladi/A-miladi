@@ -1,8 +1,19 @@
 ### Hi I'm NEO👋
-My Skills 
+I Know About :
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,jquery,tailwind,css,html,github,python)](https://skillicons.dev)
-<a href="https://silicontech.vip" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center" area-hidden="true" /></a> 
-<a href="mailto:alireza.miladi@yahoo.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,css,html,wordpress)](https://skillicons.dev)
+<!--
+**marziecode/Alireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
+-->
