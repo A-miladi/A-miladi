@@ -2,7 +2,7 @@
 I Know About :
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,yarn,next,tailwind,css,html,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,yarn,next,tailwind,css,html,github,python,swift,java)](https://skillicons.dev)
 <!--
 **marziecode/Alireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
